@@ -1,2 +1,2 @@
 # UDP-Echo-Client-and-Server
-UDP client and server in Python
+Client and server in Python handling UDP echo requests
